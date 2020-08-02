@@ -1,0 +1,12 @@
+altgraph==0.17
+cffi==1.14.1
+chardet==3.0.4
+cryptography==3.0
+future==0.18.2
+pdfminer.six==20200726
+pefile==2019.4.18
+pycparser==2.20
+PyInstaller==3.6
+pywin32-ctypes==0.2.0
+six==1.15.0
+sortedcontainers==2.2.2
