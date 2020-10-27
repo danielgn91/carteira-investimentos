@@ -1,7 +1,7 @@
 altgraph==0.17
 cffi==1.14.1
 chardet==3.0.4
-cryptography==3.0
+cryptography==3.2
 future==0.18.2
 pdfminer.six==20200726
 pefile==2019.4.18
